@@ -1,2 +1,3 @@
 # seed-vle
-VLE to support FLOSS education and training
+
+VLE to support software engineering education and training with floss projects.
